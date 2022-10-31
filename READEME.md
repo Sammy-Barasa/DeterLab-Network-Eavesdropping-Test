@@ -119,6 +119,7 @@ Add both hosts
 
 Select ***ARP Poisson ....***
 
+Press enter to select ARP Poisson and press enter again on the parameters prompt
 #### **Open another instance and use tcpdump**
 
 Login to another session of the victim computer, eve, and switch as root 
@@ -186,5 +187,5 @@ sudo apt-get install elinks
 elinks index.html
 ```
 
-You will
+Scroll and select the last as_html and get the results.
 
