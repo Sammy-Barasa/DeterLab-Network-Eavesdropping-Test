@@ -125,8 +125,11 @@ Login to another session of the victim computer, eve, and switch as root
 
 
 ####
-tcpdump -i eth1 -s0 -w output.pcap
-50 seconds
+```
+tcpdump -i eth1 -s0 -w output.pcap 
+```  
+
+for 50 seconds
 ctrl c
 
 ```
