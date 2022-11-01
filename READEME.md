@@ -5,10 +5,25 @@
 ## Logging in to DeterLab Account Via SSH
 
 Use `ssh` comand and your user name. as below:
+From command prompt
 
 ```
 ssh yourusername@users.deterlab.net
 ```
+for putty
+
+```
+users.isi.deterlab.net
+```
+followed by your username
+
+````
+jkuat***
+
+```
+followed by your password
+
+
 
 ## Logging on to DeterLab Experiment instance
 
@@ -188,4 +203,7 @@ elinks index.html
 ```
 
 Scroll and select the last as_html and get the results.
+
+
+Basically, the list is a decryption on all the sessions captured on the output.pcap tcpdump resut. You can select any session and see the details in the communication 
 
